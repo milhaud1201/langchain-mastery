@@ -1,1 +1,1 @@
-# langchain-tutorial
+# langchain-mastery
